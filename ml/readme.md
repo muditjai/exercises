@@ -26,3 +26,5 @@ Things to keep in mind
 [PEP8]:http://legacy.python.org/dev/peps/pep-0008/
 [pytest]:http://pytest.org/latest/
 [nosetest]:https://nose.readthedocs.org/en/latest/
+
+Test text addition
